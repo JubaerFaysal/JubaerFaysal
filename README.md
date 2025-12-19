@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👨‍💻 Jubaer Ahmed Faysal
 
-<!--
-**JubaerFaysal/JubaerFaysal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm **Jubaer Ahmed Faisal**, a passionate **Software Developer** and **Computer Science & Engineering** student.  
+I love building modern applications, exploring AI technologies, and continuously learning new tools to improve my craft.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👀 Interests
+- Software Development (Mobile, Web, Backend)
+- Artificial Intelligence & Machine Learning
+- Nano-technology applications in AI
+- Teaching & knowledge sharing
+
+
+## 🌱 Currently Learning
+- **Flutter & Mobile App Development**
+- **Modern Backend Development (NestJS, TypeORM, APIs)**
+
+
+## 💼 Looking to Collaborate On
+- Mobile App Development (Flutter)
+- Full-stack Web Projects
+- AI-related research or experimental projects
+
+## 📫 Contact
+- **Email:** `jubaerfaysal@gmail.com`
+- **WhatsApp:** `+880 1641-420456`
+
+
+## ⚡ Fun Fact
+I love watching **sci-fi movies** and exploring futuristic concepts!
