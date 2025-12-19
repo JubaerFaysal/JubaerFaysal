@@ -1,6 +1,6 @@
 # 👨‍💻 Jubaer Ahmed Faysal
 
-Hi! I'm **Jubaer Ahmed Faisal**, a passionate **Software Developer** and **Computer Science & Engineering** student.  
+Hi! I'm **Jubaer Ahmed Faysal**, a passionate **Software Developer** and **Computer Science & Engineering** student.  
 I love building modern applications, exploring AI technologies, and continuously learning new tools to improve my craft.
 
 
@@ -24,6 +24,8 @@ I love building modern applications, exploring AI technologies, and continuously
 ## 📫 Contact
 - **Email:** `jubaerfaysal@gmail.com`
 - **WhatsApp:** `+880 1641-420456`
+- **LinkedIn:** `https://www.linkedin.com/in/jubaer-ahmed-faysal/`
+- - **Portfolio:** `https://portfolio-bb279.web.app`
 
 
 ## ⚡ Fun Fact
