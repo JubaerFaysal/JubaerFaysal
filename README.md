@@ -25,7 +25,7 @@ I love building modern applications, exploring AI technologies, and continuously
 - **Email:** `jubaerfaysal@gmail.com`
 - **WhatsApp:** `+880 1641-420456`
 - **LinkedIn:** `https://www.linkedin.com/in/jubaer-ahmed-faysal/`
-- - **Portfolio:** `https://portfolio-bb279.web.app`
+- **Portfolio:** `https://portfolio-bb279.web.app`
 
 
 ## ⚡ Fun Fact
