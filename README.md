@@ -37,16 +37,6 @@ I specialize in **Flutter** and **Backend Development**, creating cross-platform
 
 ---
 
-# 🚀 Currently Learning
-
-- 📱 Advanced Flutter Development
-- ⚡ NestJS & Scalable Backend Architecture
-- 🐳 Docker & Deployment
-- ☁️ Cloud Technologies
-- 🤖 Artificial Intelligence
-
----
-
 # 💻 Tech Stack
 
 ### Languages
