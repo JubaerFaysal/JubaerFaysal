@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="jubaer-ahmed-faysal-portfolio.vercel.app">
+  <a href="https://jubaer-ahmed-faysal-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome"/>
   </a>
   <a href="https://www.linkedin.com/in/jubaer-ahmed-faysal/">
